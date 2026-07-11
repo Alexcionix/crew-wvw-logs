@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260709-202113-3xh0",
+      "title": "Randi Commandi",
+      "commanders": [
+        "Randi Commandi"
+      ],
+      "dateStart": "2026-07-10T00:21:13.000Z",
+      "dateEnd": "2026-07-10T00:52:53.000Z",
+      "dateLabel": "7/9/2026, 8:21:13 PM - 7/9/2026, 8:52:53 PM",
+      "url": "https://Alexcionix.github.io/crew-wvw-logs/?report=20260709-202113-3xh0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260709-202113-7rxo",
       "title": "Randi Commandi",
       "commanders": [
