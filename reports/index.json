@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260729-202623-uo55",
+      "title": "Randimander",
+      "commanders": [
+        "Randimander"
+      ],
+      "dateStart": "2026-07-30T00:26:23.000Z",
+      "dateEnd": "2026-07-30T01:07:23.000Z",
+      "dateLabel": "7/29/2026, 8:26:23 PM - 7/29/2026, 9:07:23 PM",
+      "url": "https://Alexcionix.github.io/crew-wvw-logs/?report=20260729-202623-uo55",
+      "summary": {
+        "borderlandsPct": 0.4358974358974359,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260716-201923-44o7",
       "title": "Randimander",
       "commanders": [
