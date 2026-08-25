@@ -1,8 +1,36 @@
 {
-  "colorPalette": "electric-blue",
+  "colorPalette": "teal-ocean",
   "glassSurfaces": false,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260824-202042-aw2d",
+      "title": "Randimander",
+      "commanders": [
+        "Randimander"
+      ],
+      "guild": {
+        "id": "0AB7068E-AD8D-EE11-8465-02315AB41281",
+        "name": "The Tides Of Tyria",
+        "tag": "Crew"
+      },
+      "dateStart": "2026-08-25T00:20:42.000Z",
+      "dateEnd": "2026-08-25T00:50:25.146Z",
+      "dateLabel": "8/24/2026, 8:20:42 PM - 8/24/2026, 8:50:25 PM",
+      "url": "https://Alexcionix.github.io/crew-wvw-logs/?report=20260824-202042-aw2d",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 33,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 8
+      }
+    },
     {
       "id": "20260817-195140-4vx6",
       "title": "Slay Me Softly",
