@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260909-202530-ozxe",
+      "title": "Randimander",
+      "commanders": [
+        "Randimander"
+      ],
+      "guild": {
+        "id": "0AB7068E-AD8D-EE11-8465-02315AB41281",
+        "name": "The Tides Of Tyria",
+        "tag": "Crew"
+      },
+      "dateStart": "2026-09-10T00:25:30.000Z",
+      "dateEnd": "2026-09-10T00:53:11.618Z",
+      "dateLabel": "9/9/2026, 8:25:30 PM - 9/9/2026, 8:53:11 PM",
+      "url": "https://Alexcionix.github.io/crew-wvw-logs/?report=20260909-202530-ozxe",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 41,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260827-153039-vrrr",
       "title": "Randi Commandi",
       "commanders": [
